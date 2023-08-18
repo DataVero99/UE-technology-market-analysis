@@ -1,7 +1,7 @@
-#Comparative analysis of European Union countries in terms of the level of technological development in the years: 2011, 2015, 2019.
+# Comparative analysis of European Union countries in terms of the level of technological development in the years: 2011, 2015, 2019.
 
 
-**Introduction**
+## Introduction
 
 Every year, the European Commission prepares the European Innovation Scoreboard (EIS), aiming to compare the countries belonging to the European Union in terms of their best innovations. Despite numerous efforts to implement technology and promote technological market development, EU institutions confine the EIS to innovation and rely on various data sources. The objective of this study is to demonstrate the data provided by Eurostat regarding the analyzed market, and based on the collected data, to create rankings of EU countries according to their technological level. Furthermore, the study involves the classification of countries using a specially constructed taxonomic measure and the application of the Ward clustering analysis.
 
@@ -14,7 +14,7 @@ Specific Hypotheses:
 3. Germany is the leader in the technology market in Europe.
 
 
-**Data Characteristics**
+## Data Characteristics
 
 In order to gather data for the study, two databases directly related to the technological market were utilized. The first database pertains to the digital economy and digital society (Eurostat Database). This implies that the data contained therein primarily concern statistics related to information and communication technologies.
 
@@ -38,9 +38,9 @@ From the second database (Eurostat Database), the following variables have been 
 • 𝑋14 – human resources in science and technology – the percentage of individuals employed in fields involving the creation or application of knowledge in scientific and technical areas.
 
 
-#Empirical Analysis Results
+# Empirical Analysis Results
 
-**Country Rankings and Their Consistency Over Time**
+## Country Rankings and Their Consistency Over Time
 
 The first method applied in the study involves calculating the taxonomic measure of technological advancement - TMTA. This process resulted in rankings of European Union countries based on technological advancement for the years 2011, 2015, and 2019.
 
@@ -67,7 +67,7 @@ The above-mentioned countries consistently maintained similar or identical posit
 Therefore, there is no basis for rejecting the main hypothesis. Western European countries occupy top positions in rankings concerning the level of technological market development.
 
 
-**Spatial Distributions of TMTA**
+## Spatial Distributions of TMTA
 
 Another aspect of the conducted analysis is the spatial distributions of the taxonomic measure of technological advancement among European Union countries in the examined years.
 
@@ -119,7 +119,7 @@ The countries that did not change their groups in the analyzed years are:
 • Group 4 – Austria, Belgium, Denmark, Finland, France, Netherlands, Sweden, United Kingdom.
 
 
-**Cluster Analysis using Ward's Method**
+## Cluster Analysis using Ward's Method
 
 In Ward's Method, clusters of within-group variance of variables describing objects are formed. The goal is to minimize this within-group variance as much as possible.
 
@@ -145,6 +145,7 @@ Clustering of European Union Countries using Ward's Method for the Year 2015
 
 Classification of European Union Countries Obtained by Ward's Method for the Year 2015
 ![Table1](https://lh3.googleusercontent.com/pw/AIL4fc-QJC6B3UjbBYzzYuMT6A--9hAOkYb3cSoD2Q_QZuDAIGxPrAazjCt1zP3Y5zDVTjKCYbbwycyWk-iNfyi1JfvxwKzgoyuP0bINo8qyAIKmff_np-o59JbCx80WCusSD4JY2Kky5KeUFKiG05g0u8gOepHr5VPLpMwk1OnuwBM15kUcoqSOB1tTlyXyLMNIdxL1Eypgovu1D3IQNEHWgg-foZV9OjnBk2bEE1EECuxdA1B9S1ZEnn_YxjeckIPjc7-LRcCyMPeOY8WH9qxFpTPl91o7SwEoWrkqRu1K3TXW1AX20N87AZOdECI3vWqlB-dVI5KT3EKx0YlqP56PtBhjazo-akg7r65mSKqp76gdoYQ2CoQ2S7ikjTv3J1gfNLvlNFIgu_bRM2LQJrqMvNKyy-36gJXnFBFLiPylniJjDt-gRCALXEbRn1ibiaCuDJdWQktZ4uKKJGhF7Co_YjEx8GZ5jqprujVGwvk-lvV6Pr36ch61SFRNo1jNwcP0yIuc1i-KG68sf2XtXaxFAIoVstjosCeoZLYG9O2kKo75UtprK0QAUyDe8-978gxwAUMm4WYisrVKl3PAvkWQ40t6nhlBS9mnCDNe31hPsRheev9wNmZ3XgZJb3vkIcUSebTFsl314bC-18ASrrcEZ9VnSJqYRkWXHmTUZcWs3OiEYQpGWm9CEPl2DubQviqTAmTQn6tjfT17sl1Guz424utW6yN2x8kKuAM3L2Ny-o11Va9IOwjyBPLLa9xc4FLfRalvu58g1a8ltcnNn9qZkx10Sd9qadz5OVPiMzV6Ti9ehmTgnCCviOvJon1NfA9XKxUbFHgDmvQaVeYvW2RIiNJzm2BrNzwXsavBdzf1efXXUyFQkpa5ud5c4L3RqD3zpm4voTx35eRcAZFBKl6tyXtbavWjFEihDRxFFxjdTdfBNGfFOQhZQCmu-fE-FfM25inEcCxeEmq_7vyf3WjYyJwmWAZ9zP3ktlmQmzpHCXAkADP4IsbLqxvmDYBIRXf4A5iRYw=w724-h513-s-no?authuser=0)
+
 On the map and dendrogram, the divisions of EU countries for the year 2015 have been marked. The classification of countries obtained by Ward's Method for the year 2015 is as follows:
 
 - Group 1: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Netherlands, Ireland, Luxembourg, Germany, Sweden, United Kingdom;
@@ -182,7 +183,7 @@ Countries that remained in the same group throughout the analyzed years are:
 From this, it can be deduced that most of the movement occurred within the fourth group.
 
 
-**Cluster analysis using the Ward's Method based on merged cross-sectional time-series data involves grouping entities according to their similarities across various time points.**
+## Cluster analysis using the Ward's Method based on merged cross-sectional time-series data involves grouping entities according to their similarities across various time points.
 
 Based on the merged spatial and temporal data from the three analyzed years, 2011, 2015, and 2019, a dendrogram was constructed. This dendrogram illustrates the classification of EU countries based on variables characterizing the level of development of the European technology market in a spatial-temporal context.
 
@@ -192,7 +193,7 @@ Clustering of European Union countries in the years 2011, 2015, and 2019 using t
 The above analysis indicates that European Union countries are more diverse over time than in space in terms of the examined characteristics. This is due to the fact that quite rarely do the same spatial objects from different years appear in one group. This is a logical conclusion, as the changes occurring in the technology market emerge over time.
 
 
-**Summary**
+# Summary
 
 The overall aim of the study was a comparative analysis of European Union (EU) countries concerning the spatial and temporal development level of the technology market. Employing selected methods, namely the Taxonomic Measure of Technological Advancement (TMTA) and Ward's method, using Eurostat data on EU countries, allowed for the verification of prior hypotheses. This was facilitated by achieving specific goals within the study.
 
