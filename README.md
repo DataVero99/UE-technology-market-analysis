@@ -49,7 +49,7 @@ The interpretation of the results primarily focused on references to Western Eur
 In connection with the above, it's important to list the Western European countries according to the United Nations Statistics Division. The Western European countries include (Statistics Division of the United Nations): Austria, Belgium, France, Germany, Liechtenstein, Luxembourg, Monaco, Netherlands, and Switzerland.
 
 Rankings of European Union Countries Using Ordered TMTA Values
-![Table1](https://github.com/DataVero99/UE-technology-market-analysis/images/table1.png)
+![Table1](https://github.com/DataVero99/UE-technology-market-analysis/blob/main/images/table1.png)
 
 The top three positions in the rankings remained consistently occupied by Germany, Denmark, and Sweden in the examined years. Undoubtedly, these countries are widely recognized as highly developed in the field of technology in Europe.
 
